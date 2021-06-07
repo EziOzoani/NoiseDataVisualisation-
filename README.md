@@ -65,9 +65,7 @@ The android studio environment is used to visualise the data, load the geolocati
 users current location and to draw the corresponding data streams on top of the map. 
 
 
-![Image of App](https://github.com/EziOzoani/NoiseDataVisualisation-/blob/master/Images/app1.png)
-
-![Image of App2](https://github.com/EziOzoani/NoiseDataVisualisation-/blob/master/Images/app2.png)
+![Image of App](https://github.com/EziOzoani/NoiseDataVisualisation-/blob/master/Images/app1.png) ![Image of App2](https://github.com/EziOzoani/NoiseDataVisualisation-/blob/master/Images/app2.png)
 
 
 For data points in a given area a smaller number of data is visualised, this drasctisally decreases load
