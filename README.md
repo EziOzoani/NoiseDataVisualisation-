@@ -10,11 +10,11 @@ needed with Firebase.The user datatssebs is store in Firebases.
 
 The general flow of the apps is :
 
+![Image of Flow](https://github.com/EziOzoani/NoiseDataVisualisation-/blob/master/Images/flow.png)
 
-The appliation will first make use of the database stored in Firebase and of the
-Noise API.
 
-[image]
+The appliation will first make use of the database stored in Firebase and the [Dublin noise API](https://data.smartdublin.ie).
+
 
 First an onPublicRequest permission is invoked in order to gain access to the device’s
 location( this required for android devices on the newer OS).
