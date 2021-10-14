@@ -9,8 +9,8 @@ user's current location. Allowing users to retrieve a visualisation of the noise
 
 
 ## Data Gathering
-Opted to use Firebase as it allwos. for easier inteegretaion into android studio, as uniform staorge stypes are not 
-needed with Firebase.The user datatssebs is store in Firebases.
+Opted to use Firebase as it allows for easier integration into android studio, as uniform storage types are not 
+needed with Firebase. 
 
 The general flow of the apps is :
 
@@ -20,7 +20,7 @@ The general flow of the apps is :
 The appliation will first make use of the database stored in Firebase and the [Dublin noise API](https://data.smartdublin.ie).
 
 
-First an onPublicRequest permission is invoked in order to gain access to the device’s
+First an onPublicRequest permission is invoked in order to gain access to the device's
 location( this required for android devices on the newer OS).
 Once enabled the location listener is called, this class then makes a call to the API, passing
 in the current latitude a longitude from the device. 
